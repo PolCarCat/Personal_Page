@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Pol Carrera Personal Page
 
-You can use the [editor on GitHub](https://github.com/PolCarCat/Personal_Page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Main designer and coder for No ReadMe Studios, producing the game Mystara Arena.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My work in the team has been:
 
-### Markdown
+## Design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Main design of the game:
+Along other members of the team we developed the idea of a 2 vs 2 fighting game with elements from MOBA games.
 
-```markdown
-Syntax highlighted code block
+-Character Design:
+Basic mechanics, combos and abilities of each the characters
 
-# Header 1
-## Header 2
-### Header 3
+-GGD
+Writed par of the Game Design Document
 
-- Bulleted
-- List
+## Code
 
-1. Numbered
-2. List
+-Code in game characters
 
-**Bold** and _Italic_ and `Code` text
+	Stats
+	Movement
+	States
+	Combos
+	Abilities
+-Item implementation
 
-[Link](url) and ![Image](src)
-```
+## Art
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-Logo & logo animation 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PolCarCat/Personal_Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-Wizard animations
