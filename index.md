@@ -13,7 +13,7 @@ Along other members of the team we developed the idea of a 2 vs 2 fighting game 
 Basic mechanics, combos and abilities of each the characters
 
 -GGD
-Writed par of the Game Design Document
+Writted par of the Game Design Document
 
 ## Code
 
@@ -24,6 +24,7 @@ Writed par of the Game Design Document
 	States
 	Combos
 	Abilities
+	All behaviour
 -Item implementation
 
 ## Art
